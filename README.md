@@ -2,7 +2,7 @@
 # Election Comparison Dashboard
 
 ## Overview
-This Streamlit app facilitates the analysis of National Assembly Polling Scheme election data. Users can dynamically compare votes across political parties, select polling stations, and input values for each company. The app generates a bar chart representing the total votes for each party and allows users to compare the difference in votes between two selected parties.
+This Streamlit app facilitates the analysis of National Assembly Polling Scheme NA-4 election data. Users can dynamically compare votes across political parties, select polling stations, and input values for each company. The app generates a bar chart representing the total votes for each party and allows users to compare the difference in votes between two selected parties.
 
 ## Getting Started
 1. Ensure you have the necessary dependencies installed:
