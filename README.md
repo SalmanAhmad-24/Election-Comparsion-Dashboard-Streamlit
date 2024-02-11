@@ -29,6 +29,7 @@ This Streamlit app facilitates the analysis of National Assembly Polling Scheme 
 - Pandas
 - Streamlit
 - Plotly Express
+- openpyxl
 
 ## Acknowledgements
 This app utilizes the power of Pandas for data manipulation, Streamlit for the interactive web interface, and Plotly Express for dynamic visualizations. Special thanks to the National Assembly Polling Scheme for providing the election data.
